@@ -1,2 +1,1 @@
-# .github
-LabBench Society
+# LabBench Society
